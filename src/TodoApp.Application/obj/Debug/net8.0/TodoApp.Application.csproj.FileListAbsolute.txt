@@ -1,0 +1,15 @@
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/bin/Debug/net8.0/TodoApp.Application.deps.json
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/bin/Debug/net8.0/TodoApp.Application.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/bin/Debug/net8.0/TodoApp.Application.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/bin/Debug/net8.0/TodoApp.Core.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/bin/Debug/net8.0/TodoApp.Core.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.csproj.AssemblyReference.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.AssemblyInfoInputs.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.AssemblyInfo.cs
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.csproj.CoreCompileInputs.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp..05D78BBE.Up2Date
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/refint/TodoApp.Application.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/TodoApp.Application.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Application/obj/Debug/net8.0/ref/TodoApp.Application.dll

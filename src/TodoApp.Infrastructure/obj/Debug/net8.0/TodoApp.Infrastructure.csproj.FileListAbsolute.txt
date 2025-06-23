@@ -1,0 +1,17 @@
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Infrastructure.deps.json
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Infrastructure.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Infrastructure.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Application.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Core.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Core.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/bin/Debug/net8.0/TodoApp.Application.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.AssemblyInfo.cs
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp..D6B2378B.Up2Date
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/refint/TodoApp.Infrastructure.dll
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.pdb
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/ref/TodoApp.Infrastructure.dll
