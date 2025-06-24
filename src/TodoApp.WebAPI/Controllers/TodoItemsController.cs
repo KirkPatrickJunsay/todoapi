@@ -1,4 +1,5 @@
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TodoApp.Application.DTOs;
 using TodoApp.Application.Features.TodoItems.Commands;
@@ -18,6 +19,7 @@ public class TodoItemsController : ControllerBase
     }
 
     [HttpGet]
+    [Authorize]
     public async Task<IActionResult> GetAll()
     {
         var result = await _mediator.Send(new GetAllTodosQuery());
