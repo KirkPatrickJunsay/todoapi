@@ -63,3 +63,46 @@ TestResults/
 # Deployment artifacts
 *.publishsettings
 *.deployment
+
+# Build results
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.app
+*.log
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Auto-generated files
+*.csproj.FileListAbsolute
+*.csproj.AssemblyReference.cache
+*.AssemblyInfo.cs
+*.Core.dll
+*.Core.pdb
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Rider files
+.idea/
+
+# Mac system files
+.DS_Store
+
+# SQLite database
+*.db
+
+# Other
+*.generated.cs
+*.cache
+*.tmp

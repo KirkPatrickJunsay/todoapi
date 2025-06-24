@@ -10,6 +10,7 @@
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.AssemblyInfoInputs.cache
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.AssemblyInfo.cs
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.sourcelink.json
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp..D6B2378B.Up2Date
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/TodoApp.Infrastructure.dll
 /Users/kirkpatrickjunsay/Documents/projects/todoapi/src/TodoApp.Infrastructure/obj/Debug/net8.0/refint/TodoApp.Infrastructure.dll
